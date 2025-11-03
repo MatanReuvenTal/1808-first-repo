@@ -1,2 +1,4 @@
 image:
-  tag: v0.3
+  repository: matanreuvental/1808-myimage
+  tag: v0.2
+  #
